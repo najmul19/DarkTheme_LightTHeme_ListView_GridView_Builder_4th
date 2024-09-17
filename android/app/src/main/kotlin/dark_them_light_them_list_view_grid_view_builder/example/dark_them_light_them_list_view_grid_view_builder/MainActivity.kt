@@ -1,0 +1,5 @@
+package dark_them_light_them_list_view_grid_view_builder.example.dark_them_light_them_list_view_grid_view_builder
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
